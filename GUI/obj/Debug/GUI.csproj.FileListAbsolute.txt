@@ -1,0 +1,134 @@
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibraryManagement\GUI\bin\Debug\GUI.exe.config
+C:\Users\User\source\repos\LibraryManagement\GUI\bin\Debug\GUI.exe
+C:\Users\User\source\repos\LibraryManagement\GUI\bin\Debug\GUI.pdb
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.exe
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.pdb
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Author.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Book.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmChild_BookTitle.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Inventory.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Loan.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmRole_Manager.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Request.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmRole_Staff.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmRole_User.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\bin\Debug\BUS.dll
+C:\Users\User\source\repos\LibraryManagement\GUI\bin\Debug\DAO.dll
+C:\Users\User\source\repos\LibraryManagement\GUI\bin\Debug\BUS.pdb
+C:\Users\User\source\repos\LibraryManagement\GUI\bin\Debug\DAO.pdb
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Category.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmChild_User.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\User\source\repos\LibraryManagement\GUI\bin\Debug\DTO.dll
+C:\Users\User\source\repos\LibraryManagement\GUI\bin\Debug\DTO.pdb
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_AdvanceSearch.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Search_StaffManager.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Search_User.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Pending.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\bin\Debug\GUI.exe.config
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\bin\Debug\GUI.exe
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\bin\Debug\GUI.pdb
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\bin\Debug\BUS.dll
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\bin\Debug\DAO.dll
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\bin\Debug\DTO.dll
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\bin\Debug\BUS.pdb
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\bin\Debug\DAO.pdb
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\bin\Debug\DTO.pdb
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Author.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Book.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmChild_BookTitle.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Category.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Inventory.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_AdvanceSearch.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Loan.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Pending.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Search_StaffManager.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Search_User.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmRole_Manager.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Request.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmRole_Staff.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmChild_User.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmRole_User.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.exe
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.pdb
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Loan_History.resources
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Request_History.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Loan_History.resources
+C:\Users\User\source\repos\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Request_History.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\bin\Debug\GUI.exe.config
+C:\Users\User\Desktop\LibraryManagement\GUI\bin\Debug\GUI.exe
+C:\Users\User\Desktop\LibraryManagement\GUI\bin\Debug\GUI.pdb
+C:\Users\User\Desktop\LibraryManagement\GUI\bin\Debug\BUS.dll
+C:\Users\User\Desktop\LibraryManagement\GUI\bin\Debug\DTO.dll
+C:\Users\User\Desktop\LibraryManagement\GUI\bin\Debug\DAO.dll
+C:\Users\User\Desktop\LibraryManagement\GUI\bin\Debug\BUS.pdb
+C:\Users\User\Desktop\LibraryManagement\GUI\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\LibraryManagement\GUI\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Author.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Book.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmChild_BookTitle.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Category.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Inventory.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Loan_History.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmChild_Request_History.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_AdvanceSearch.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Loan.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Pending.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Search_StaffManager.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Search_User.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmRole_Manager.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmFunc_Request.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmRole_Staff.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmChild_User.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.frmRole_User.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.exe
+C:\Users\User\Desktop\LibraryManagement\GUI\obj\Debug\GUI.pdb
+H:\Empty\1\LibraryManagement_V1\GUI\bin\Debug\GUI.exe.config
+H:\Empty\1\LibraryManagement_V1\GUI\bin\Debug\GUI.exe
+H:\Empty\1\LibraryManagement_V1\GUI\bin\Debug\GUI.pdb
+H:\Empty\1\LibraryManagement_V1\GUI\bin\Debug\BUS.dll
+H:\Empty\1\LibraryManagement_V1\GUI\bin\Debug\DTO.dll
+H:\Empty\1\LibraryManagement_V1\GUI\bin\Debug\DAO.dll
+H:\Empty\1\LibraryManagement_V1\GUI\bin\Debug\BUS.pdb
+H:\Empty\1\LibraryManagement_V1\GUI\bin\Debug\DTO.pdb
+H:\Empty\1\LibraryManagement_V1\GUI\bin\Debug\DAO.pdb
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmChild_Author.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmChild_Book.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmChild_BookTitle.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmChild_Category.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmChild_Inventory.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmChild_Loan_History.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmChild_Request_History.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmFunc_AdvanceSearch.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmFunc_Loan.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmFunc_Pending.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmFunc_Search_StaffManager.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmFunc_Search_User.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmRole_Manager.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.Form1.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmFunc_Request.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmRole_Staff.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmChild_User.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.frmRole_User.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.Properties.Resources.resources
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.csproj.CopyComplete
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.exe
+H:\Empty\1\LibraryManagement_V1\GUI\obj\Debug\GUI.pdb
