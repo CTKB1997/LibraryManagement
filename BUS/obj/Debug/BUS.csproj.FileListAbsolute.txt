@@ -1,0 +1,42 @@
+C:\Users\User\source\repos\LibraryManagement\BUS\bin\Debug\BUS.dll
+C:\Users\User\source\repos\LibraryManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\User\source\repos\LibraryManagement\BUS\bin\Debug\DAO.dll
+C:\Users\User\source\repos\LibraryManagement\BUS\bin\Debug\DTO.dll
+C:\Users\User\source\repos\LibraryManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\User\source\repos\LibraryManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\User\source\repos\LibraryManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\LibraryManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibraryManagement\BUS\obj\Debug\BUS.dll
+C:\Users\User\source\repos\LibraryManagement\BUS\obj\Debug\BUS.pdb
+C:\Users\User\source\repos\LibraryManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\BUS\bin\Debug\BUS.dll
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\BUS\bin\Debug\DAO.dll
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\BUS\bin\Debug\DTO.dll
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\BUS\obj\Debug\BUS.dll
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\BUS\obj\Debug\BUS.pdb
+C:\Users\User\Desktop\LibraryManagement\BUS\bin\Debug\BUS.dll
+C:\Users\User\Desktop\LibraryManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\User\Desktop\LibraryManagement\BUS\bin\Debug\DAO.dll
+C:\Users\User\Desktop\LibraryManagement\BUS\bin\Debug\DTO.dll
+C:\Users\User\Desktop\LibraryManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\LibraryManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\LibraryManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\LibraryManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LibraryManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\User\Desktop\LibraryManagement\BUS\obj\Debug\BUS.dll
+C:\Users\User\Desktop\LibraryManagement\BUS\obj\Debug\BUS.pdb
+H:\Empty\1\LibraryManagement_V1\BUS\bin\Debug\BUS.dll
+H:\Empty\1\LibraryManagement_V1\BUS\bin\Debug\BUS.pdb
+H:\Empty\1\LibraryManagement_V1\BUS\bin\Debug\DAO.dll
+H:\Empty\1\LibraryManagement_V1\BUS\bin\Debug\DTO.dll
+H:\Empty\1\LibraryManagement_V1\BUS\bin\Debug\DAO.pdb
+H:\Empty\1\LibraryManagement_V1\BUS\bin\Debug\DTO.pdb
+H:\Empty\1\LibraryManagement_V1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+H:\Empty\1\LibraryManagement_V1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+H:\Empty\1\LibraryManagement_V1\BUS\obj\Debug\BUS.csproj.CopyComplete
+H:\Empty\1\LibraryManagement_V1\BUS\obj\Debug\BUS.dll
+H:\Empty\1\LibraryManagement_V1\BUS\obj\Debug\BUS.pdb

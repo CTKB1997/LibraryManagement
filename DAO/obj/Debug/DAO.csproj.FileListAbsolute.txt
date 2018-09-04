@@ -1,0 +1,34 @@
+C:\Users\User\source\repos\LibraryManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\LibraryManagement\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibraryManagement\DAO\bin\Debug\DAO.dll
+C:\Users\User\source\repos\LibraryManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\User\source\repos\LibraryManagement\DAO\bin\Debug\DTO.dll
+C:\Users\User\source\repos\LibraryManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\User\source\repos\LibraryManagement\DAO\obj\Debug\DAO.dll
+C:\Users\User\source\repos\LibraryManagement\DAO\obj\Debug\DAO.pdb
+C:\Users\User\source\repos\LibraryManagement\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\DAO\bin\Debug\DAO.dll
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\DAO\bin\Debug\DTO.dll
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\DAO\obj\Debug\DAO.dll
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\DAO\obj\Debug\DAO.pdb
+C:\Users\User\Desktop\LibraryManagement\DAO\bin\Debug\DAO.dll
+C:\Users\User\Desktop\LibraryManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\LibraryManagement\DAO\bin\Debug\DTO.dll
+C:\Users\User\Desktop\LibraryManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\LibraryManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\LibraryManagement\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LibraryManagement\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\User\Desktop\LibraryManagement\DAO\obj\Debug\DAO.dll
+C:\Users\User\Desktop\LibraryManagement\DAO\obj\Debug\DAO.pdb
+H:\Empty\1\LibraryManagement_V1\DAO\bin\Debug\DAO.dll
+H:\Empty\1\LibraryManagement_V1\DAO\bin\Debug\DAO.pdb
+H:\Empty\1\LibraryManagement_V1\DAO\bin\Debug\DTO.dll
+H:\Empty\1\LibraryManagement_V1\DAO\bin\Debug\DTO.pdb
+H:\Empty\1\LibraryManagement_V1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+H:\Empty\1\LibraryManagement_V1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+H:\Empty\1\LibraryManagement_V1\DAO\obj\Debug\DAO.csproj.CopyComplete
+H:\Empty\1\LibraryManagement_V1\DAO\obj\Debug\DAO.dll
+H:\Empty\1\LibraryManagement_V1\DAO\obj\Debug\DAO.pdb

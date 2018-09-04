@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\LibraryManagement\DTO\bin\Debug\DTO.dll
+C:\Users\User\source\repos\LibraryManagement\DTO\bin\Debug\DTO.pdb
+C:\Users\User\source\repos\LibraryManagement\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\LibraryManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibraryManagement\DTO\obj\Debug\DTO.dll
+C:\Users\User\source\repos\LibraryManagement\DTO\obj\Debug\DTO.pdb
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\DTO\bin\Debug\DTO.dll
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\DTO\bin\Debug\DTO.pdb
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\DTO\obj\Debug\DTO.dll
+C:\Users\AnhNH\Desktop\Project c#\LibraryManagement\DTO\obj\Debug\DTO.pdb
+H:\Empty\1\LibraryManagement_V1\DTO\bin\Debug\DTO.dll
+H:\Empty\1\LibraryManagement_V1\DTO\bin\Debug\DTO.pdb
+H:\Empty\1\LibraryManagement_V1\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+H:\Empty\1\LibraryManagement_V1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+H:\Empty\1\LibraryManagement_V1\DTO\obj\Debug\DTO.dll
+H:\Empty\1\LibraryManagement_V1\DTO\obj\Debug\DTO.pdb
