@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3EC54478-BE1E-435C-AA59-EC2F4C310E80}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmChild_Author.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild_Author.Designer.cs">
+      <DependentUpon>frmChild_Author.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild_Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild_Book.Designer.cs">
+      <DependentUpon>frmChild_Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild_BookTitle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild_BookTitle.Designer.cs">
+      <DependentUpon>frmChild_BookTitle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild_Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild_Category.Designer.cs">
+      <DependentUpon>frmChild_Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild_Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild_Inventory.Designer.cs">
+      <DependentUpon>frmChild_Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild_Loan_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild_Loan_History.Designer.cs">
+      <DependentUpon>frmChild_Loan_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild_Request_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild_Request_History.Designer.cs">
+      <DependentUpon>frmChild_Request_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFunc_AdvanceSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFunc_AdvanceSearch.Designer.cs">
+      <DependentUpon>frmFunc_AdvanceSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFunc_Loan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFunc_Loan.Designer.cs">
+      <DependentUpon>frmFunc_Loan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFunc_Pending.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFunc_Pending.Designer.cs">
+      <DependentUpon>frmFunc_Pending.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFunc_Search_StaffManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFunc_Search_StaffManager.Designer.cs">
+      <DependentUpon>frmFunc_Search_StaffManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFunc_Search_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFunc_Search_User.Designer.cs">
+      <DependentUpon>frmFunc_Search_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRole_Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRole_Manager.Designer.cs">
+      <DependentUpon>frmRole_Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFunc_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFunc_Login.Designer.cs">
+      <DependentUpon>frmFunc_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFunc_Request.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFunc_Request.Designer.cs">
+      <DependentUpon>frmFunc_Request.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRole_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRole_Staff.Designer.cs">
+      <DependentUpon>frmRole_Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild_User.Designer.cs">
+      <DependentUpon>frmChild_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRole_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRole_User.Designer.cs">
+      <DependentUpon>frmRole_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmChild_Author.resx">
+      <DependentUpon>frmChild_Author.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild_Book.resx">
+      <DependentUpon>frmChild_Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild_BookTitle.resx">
+      <DependentUpon>frmChild_BookTitle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild_Category.resx">
+      <DependentUpon>frmChild_Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild_Inventory.resx">
+      <DependentUpon>frmChild_Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild_Loan_History.resx">
+      <DependentUpon>frmChild_Loan_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild_Request_History.resx">
+      <DependentUpon>frmChild_Request_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFunc_AdvanceSearch.resx">
+      <DependentUpon>frmFunc_AdvanceSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFunc_Loan.resx">
+      <DependentUpon>frmFunc_Loan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFunc_Pending.resx">
+      <DependentUpon>frmFunc_Pending.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFunc_Search_StaffManager.resx">
+      <DependentUpon>frmFunc_Search_StaffManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFunc_Search_User.resx">
+      <DependentUpon>frmFunc_Search_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRole_Manager.resx">
+      <DependentUpon>frmRole_Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFunc_Login.resx">
+      <DependentUpon>frmFunc_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFunc_Request.resx">
+      <DependentUpon>frmFunc_Request.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRole_Staff.resx">
+      <DependentUpon>frmRole_Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild_User.resx">
+      <DependentUpon>frmChild_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRole_User.resx">
+      <DependentUpon>frmRole_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22-09-06_pic1_large.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{d8f2566c-2504-4aeb-a95e-aac90c480e62}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{4a6372ba-7eb6-40e2-b482-0c10c48575b3}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
